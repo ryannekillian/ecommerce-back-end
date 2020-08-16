@@ -1,7 +1,7 @@
 {
   "name": "internet-retail",
   "version": "1.0.0",
-  "description": "",
+  "description": "![NPM](https://img.shields.io/npm/l/inquirer)",
   "main": "index.js",
   "dependencies": {
     "dotenv": "^8.2.0",

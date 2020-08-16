@@ -1,5 +1,3 @@
-lines (88 sloc)  2.63 KB
-  
 const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 

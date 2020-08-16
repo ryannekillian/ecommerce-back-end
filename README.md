@@ -3,8 +3,8 @@
 **Internet Retail**
 
   ## **Description**
-  * This application allows the user to be able to write and save notes so that they can organize their thoughts and keep track of tasks they need to complete
-  
+  * This is a back end application for an e-commerce website that uses the latest technologies that allows the company to compete with other e-commerce           comapnies. 
+   
   ## **Table of Contents**
   ### [Installation](#Installation)
   ### [Usage](#Usage) 

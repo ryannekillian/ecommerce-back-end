@@ -11,21 +11,23 @@
   ### [Contributing](#contributing)
     
   ## Installation
-  * npm init --y
-  * npm install dotenv
-  * npm i sequelize
-  * npm install --save mysql2
+  * npm run seed
+  * npm run start
   
   
   ## Usage
  ![this is a screenshot of my website](./screenshot.png)
+ here is a short video displaying how it works using the isomnia application
+ https://drive.google.com/file/d/1UT3TrmGB73Hy4BRo9CqBditT8j2rTyzh/view
 
   ## **License:**
   This project is protected under the MIT license.
 
   ## Contributing
-  * npm express package
-  * npm uuid package
+  * npm init --y
+  * npm install dotenv
+  * npm i sequelize
+  * npm install --save mysql2
   
   ## **Questions**
   * Visit me at [gitHub](http://www.github.com/ryannekillian)

@@ -16,7 +16,7 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   // find a single tag by its `id`
   // be sure to include its associated Product data
- Tag.findone({
+ Tag.findOne({
    where: {
      id: req.params.id
    },
@@ -37,7 +37,7 @@ router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(req.body, {
     where: {
-      id: req.body.id
+      id: req.params.id
     }
   }).then(Tag => {
     res.json(Tag);
